@@ -1,5 +1,5 @@
 {
-  "name": "fishaint_frontend",
+  "name": "FishingLogging",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,6 @@
     "@mdi/font": "7.0.96",
     "core-js": "^3.29.0",
     "roboto-fontface": "*",
-    "vite-plugin-pwa": "^0.16.4",
     "vue": "^3.2.0",
     "vue-router": "^4.0.0",
     "vuetify": "^3.0.0",
@@ -22,8 +21,7 @@
     "@babel/types": "^7.21.4",
     "@types/node": "^18.15.0",
     "@types/webfontloader": "^1.6.35",
-    "@vitejs/plugin-vue": "^3.0.3",
-    "@vue/cli-plugin-pwa": "^5.0.8",
+    "@vitejs/plugin-vue": "^4.0.0",
     "@vue/eslint-config-typescript": "^11.0.0",
     "eslint": "^8.22.0",
     "eslint-plugin-vue": "^9.3.0",
